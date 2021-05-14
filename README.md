@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DenisShev
-- 👀 I’m interested in Software Development in OO environment
+- 👀 I’m interested in Software Development, game development, AI.
 - 🌱 I’m currently learning Unity
 - 📫 You can reach me at denis.shevchenko01@outlook.com
 
